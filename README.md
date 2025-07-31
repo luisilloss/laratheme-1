@@ -130,5 +130,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## ❤️ Autor
 
-Desarrollado por [CodersFree](https://codersfree.com)
-Contacto: [victor@codersfree.com](mailto:victor@codersfree.com)
+Desarrollado por [Luisillos](https://luisillos.com)
+Contacto: [Luis Hdz Dz](mailto:jluis.hernandez.dz@gmail.com)
